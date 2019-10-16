@@ -3,4 +3,6 @@ bbbb
 ccc
 UNO
 DUE
+TRE su F1
+feature 1 OK
 feature 2 completed
